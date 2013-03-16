@@ -162,10 +162,10 @@ PRODUCT_COPY_FILES += \
 	$(vendor_path)/framework/com.motorola.android.location.jar:system/framework/com.motorola.android.location.jar
 
 #app
-PRODUCT_COPY_FILES += \
-	$(vendor_path)/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
-	$(vendor_path)/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
-	$(vendor_path)/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk
+#PRODUCT_COPY_FILES += \
+#	$(vendor_path)/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
+#	$(vendor_path)/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
+#	$(vendor_path)/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk
 
 #extra
 PRODUCT_COPY_FILES += \
