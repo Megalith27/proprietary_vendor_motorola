@@ -163,9 +163,9 @@ PRODUCT_COPY_FILES += \
 
 #app
 #PRODUCT_COPY_FILES += \
-	$(vendor_path)/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
-	$(vendor_path)/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
-	$(vendor_path)/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk
+#	$(vendor_path)/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
+#	$(vendor_path)/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
+#	$(vendor_path)/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk
 
 #extra
 PRODUCT_COPY_FILES += \
